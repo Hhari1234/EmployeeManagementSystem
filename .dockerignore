@@ -1,0 +1,16 @@
+bin/
+obj/
+.git/
+.vs/
+.vscode/
+.kilo/
+.idea/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.*
+appsettings.Development.json
+Dockerfile.user
